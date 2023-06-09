@@ -1055,8 +1055,8 @@ Services Style
   margin-left: 0px;
   margin-bottom: 30px;
   background-repeat: no-repeat;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   transition: all 0.3s;
 }
 
@@ -1080,39 +1080,39 @@ Services Style
 }
 
 .first-service .icon {
-  background-image: url(../images/service-icon-01.png);
+  background-image: url(../images/comunidad-verde.png);
 }
 
 .first-service:hover .icon {
-  background-image: url(../images/service-icon-hover-01.png);
+  background-image: url(../images/comunidad-blanco.png);
 }
 
 .second-service .icon {
-  background-image: url(../images/service-icon-02.png);
+  background-image: url(../images/tareas-verdes.png);
 }
 
 .second-service:hover .icon {
-  background-image: url(../images/service-icon-hover-02.png);
+  background-image: url(../images/tareas-blancos.png);
 }
 
 .third-service .icon {
-  background-image: url(../images/service-icon-03.png);
+  background-image: url(../images/actividades-verdes.png);
 }
 
 .third-service:hover .icon {
-  background-image: url(../images/service-icon-hover-03.png);
+  background-image: url(../images/actividades-blancos.png);
 }
 
 .fourth-service .icon {
-  background-image: url(../images/service-icon-04.png);
+  background-image: url(../images/trabajo-verdes.png);
 }
 
 .fourth-service:hover .icon {
-  background-image: url(../images/service-icon-hover-04.png);
+  background-image: url(../images/trabajo-blancos.png);
 }
 
 .service-item:hover {
-  background-image: url(../images/service-bg.jpg);
+  background-image: url(../images/fondo-section.png);
   background-position: right top;
   background-repeat: no-repeat;
   background-size: cover;
